@@ -1,2 +1,2 @@
 # duit_doc
-Duit Framework documentatie
+Duit Framework documentation
